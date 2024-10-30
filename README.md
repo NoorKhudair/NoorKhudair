@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on honing my software development skills
-- 🌱 I’m currently learning front end web development
+- 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on anything built with python or javascript
 - 😄 Pronouns: she/her
